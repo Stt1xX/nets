@@ -14,7 +14,7 @@
 
 [Lab2report](https://docs.google.com/document/d/1MgYTAxv2NlkurP8Sc2veguC3QSX4ocje569W-9ZPxM0/edit?tab=t.0)
 
-[Lab3report](https://github.com/Stt1xX/lab2code)
+[Lab3report](https://docs.google.com/document/d/1o4GFXHjUVxN1ndgehhoRd8-5e3FvI95wehbgSu_d3QA/edit?tab=t.0)
 
 [Lab4report](https://github.com/Stt1xX/lab2code)
 

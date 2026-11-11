@@ -18,6 +18,6 @@
 
 [Lab4report](https://docs.google.com/document/d/1clmyPrM6rdZxjWKtI5zfrm2yYbw5RwQW8M5y6ouKHf0/edit?tab=t.0)
 
-[Lab5report](https://github.com/Stt1xX/lab2code)
+[Lab5report](https://docs.google.com/document/d/1RuJ7kDGde8KXd-TyCmodCsxgQvJl91j2x9Hcahe1ws0/edit?tab=t.0)
 
 [Lab6report](https://github.com/Stt1xX/lab2code)

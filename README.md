@@ -4,7 +4,7 @@
 
 [Lab3code](https://docs.google.com/document/d/1cf_sD7FvUhwvfSWQEO2wzLOz2KC_4KiADvtpypukjD0/edit?tab=t.0)
 
-[Lab4code](https://docs.google.com/document/d/1eyTIpyzVvA2KWLz8n8rCmbpJf-mViKGhQGJg1GPrP1U/edit?tab=t.0)
+[Lab4code](https://docs.google.com/document/d/1Y2pZ0YMJj0A1bpQUbVKrw6Zny0T7_9z3EPsOLCWvxO4/edit?tab=t.0)
 
 [Lab5code](https://docs.google.com/document/d/1NEH-azLgbtME3Q2GFRrgr-Fbg1l9TvfOKSMxhmUJgVw/edit?tab=t.0)
 
@@ -16,7 +16,7 @@
 
 [Lab3report](https://docs.google.com/document/d/1o4GFXHjUVxN1ndgehhoRd8-5e3FvI95wehbgSu_d3QA/edit?tab=t.0)
 
-[Lab4report](https://github.com/Stt1xX/lab2code)
+[Lab4report](https://docs.google.com/document/d/1clmyPrM6rdZxjWKtI5zfrm2yYbw5RwQW8M5y6ouKHf0/edit?tab=t.0)
 
 [Lab5report](https://github.com/Stt1xX/lab2code)
 
